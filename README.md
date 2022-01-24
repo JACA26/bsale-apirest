@@ -5,6 +5,8 @@
 - Sequelize ORM
 - Typescript 
 
+## API BASE URL: https://enigmatic-oasis-22837.herokuapp.com/api
+
 Toda la documentación oficial se encuentran en [API DOCS](https://enigmatic-oasis-22837.herokuapp.com/api-docs/).
 
 ---
